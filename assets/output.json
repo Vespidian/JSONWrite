@@ -1,0 +1,25 @@
+{
+	"age":19,
+	"colors":[
+		"white",
+		"bleh":"black",
+		"blue",
+		"aquamarine":[
+			0.400000,
+			0.523000,
+			0.864000,
+		],
+		{
+			"orange",
+		},
+	],
+	"something random":"yup",
+	"numbers":{
+		"one",
+		"two",
+		"three",
+		"five",
+	},
+	"yeah?":false,
+	"im running out of bullshit":true,
+},
